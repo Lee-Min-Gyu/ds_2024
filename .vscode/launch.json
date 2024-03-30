@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/jipo0/OneDrive/바탕 화면/숭실숭실/2024-1/자료구조/ds_2024/ds_2024/lru_sim",
-      "program": "c:/Users/jipo0/OneDrive/바탕 화면/숭실숭실/2024-1/자료구조/ds_2024/ds_2024/lru_sim/build/Debug/outDebug",
+      "cwd": ".",
+      "program": "build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

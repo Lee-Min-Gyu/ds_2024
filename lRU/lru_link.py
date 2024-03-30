@@ -1,4 +1,4 @@
-from lRU.linkedlist import LinkedListBasic
+from linkedlist import LinkedListBasic
 
 class CacheSimulator:
     def __init__(self, cache_size):
